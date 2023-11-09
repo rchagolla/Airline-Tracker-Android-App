@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_message">Welcome To Our Airplane Tracker!</string>
+    <string name="login_message">Login!</string>
+    <string name="username_message">Username: </string>
+    <string name="password_message">Password: </string>
+    <string name="signup_message">Sign-Up!</string>
+    <string name="password_again_message">Password Again:</string>
+    <string name="username_taken_msg">ERROR: Username is already taken!</string>
+    <string name="password_mismatch_message">ERROR: Passwords do not match!</string>
+    <string name="login_userDNE_msg">ERROR: Username doesn\'t exist!</string>
+    <string name="incorrect_password_msg">ERROR: Wrong password, try again!</string>
+    <string name="landingPagePartial">Welcome</string>
+    <string name="search_flights">Search Flights</string>
+    <string name="check_bookings">Check Bookings</string>
+    <string name="logout">Logout</string>
+    <string name="admin_things">Admin Things</string>
+    <string name="change_user_button">Add/Delete User</string>
+    <string name="change_flight_button">Add/Delete Flight</string>
+    <string name="add_a_flight_title">Add a Flight</string>
+    <string name="delete_a_flight_title">Delete a Flight</string>
+    <string name="go_back_button">Go Back</string>
+    <string name="where_from_text_input">Where From?</string>
+    <string name="where_to_text_input">Where To?</string>
+    <string name="flight_capacity_text_input">Flight Capacity</string>
+    <string name="enter_flight_id_input">Enter Flight ID</string>
+    <string name="add_flight_button">Add Flight!</string>
+    <string name="delete_flight_button">Delete Flight!</string>
+    <string name="account_details_button">Account Details</string>
+    <string name="admin_options_button">Admin Options</string>
+    <string name="change_bookings_button">Delete Booking</string>
+    <string name="view_database_details_button">Database Details</string>
+    <string name="delete_booking_textView">Delete Booking</string>
+    <string name="enter_booking_id_hint">Enter Booking ID</string>
+    <string name="delete_booking_button">Delete Booking!</string>
+    <string name="user_s_table_text_view">User\'s Table</string>
+    <string name="booking_s_table_text_view">Booking\'s Table</string>
+    <string name="flight_s_table_text_view">Flight\'s Table</string>
+    <string name="search_button">Search!</string>
+    <string name="business_radio">Business</string>
+    <string name="economy_radio">Economy</string>
+    <string name="one_way_radio">One-Way</string>
+    <string name="round_trip_radio">Round Trip</string>
+    <string name="quantity_radio">Quantity</string>
+    <string name="return_date">Return Date</string>
+    <string name="departure_date">Departure Date</string>
+
+
+</resources>
